@@ -1,4 +1,4 @@
-# MODELOS DE PREDICCIÓN
+# PROPERTY PRICE PREDICTION
 El objetivo general de este proyecto es armar un modelo sencillo para predecir el precio de propiedades en dólares, utilizando DecisionTreeRegressor y KNeighborsRegressor de Scikit-learn. El objetivo específico es lograr mayor precisión en la predicción del modelo, para ello se trabaja en el ajuste de los parámetros y su evaluación. La métrica utilizada es RMSE (raíz del error cuadrático medio) y se trabaja sobre un Dataset sobre propiedades a la venta, el cual ya ha sido limpiado.
 
 Para lograr este objetivo se realizan los siguientes pasos:
